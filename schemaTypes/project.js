@@ -18,6 +18,7 @@ export default {
           list: [
             { title: 'Construction', value: 'construction' },
             { title: 'Interior Design', value: 'interior' },
+            { title: 'Exterior Design', value: 'exterior' },
             { title: 'Landscape', value: 'landscape' },
             { title: 'Design', value: 'design' },
             { title: 'Footer Gallery', value: 'footer_gallery' }
