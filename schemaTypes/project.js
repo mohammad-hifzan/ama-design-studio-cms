@@ -19,7 +19,8 @@ export default {
             { title: 'Construction', value: 'construction' },
             { title: 'Interior Design', value: 'interior' },
             { title: 'Landscape', value: 'landscape' },
-            { title: 'Design', value: 'design' }
+            { title: 'Design', value: 'design' },
+            { title: 'Footer Gallery', value: 'footer_gallery' }
           ],
           layout: 'dropdown'
         }
